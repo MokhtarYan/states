@@ -1,0 +1,49 @@
+.App {
+  text-align: center;
+  background-color: rgba(0, 0, 255, 0.283);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#hide {
+  background-color: red;
+  color: rgba(0, 0, 255, 0.324);
+  text-decoration: rgba(0, 0, 255, 0.324);
+  width: 100px;
+  height: 50px;
+  margin-top: 20px;
+  border-radius: 20px;
+}
+#player {
+  background-color: red;
+  color: rgba(0, 0, 255, 0.324);
+  text-decoration: rgba(0, 0, 255, 0.324);
+  width: 700px;
+  height: 50px;
+  margin-top: 100px;
+  border-top-right-radius: 20px;
+  margin-bottom: 0;
+}
+#pic {
+  height: auto;
+  width: 700px;
+}
+#pres {
+  height: 100%;
+  width: fit-content;
+  border-radius: 20px;
+}
+.bio {
+  width: 700px;
+  margin: 0;
+  height: auto;
+  background-color: rgba(255, 255, 0, 0.799);
+  padding-top: 20px;
+  border-bottom-left-radius: 20px;
+  padding-bottom: 10px;
+}
+#pro {
+  padding-top: 20px;
+  margin: 0;
+  background-color: rgba(255, 255, 0, 0.799);
+}
